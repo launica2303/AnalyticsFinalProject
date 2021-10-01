@@ -2,6 +2,7 @@
 
 # Overview
 Human trafficking is a worldwide problem that affects millions of people. Traffickers use other humans to generate a profit for themselves at the victim’s expense. The most vulnerable to becoming victims of human trafficking are those who’s basic needs are unmet. The lack of necessities is one of the ways traffickers will prey on victims. Most trafficked victims believe they are indebted to their traffickers in some way or are controlled by the trauma bond they develop with their trafficker. Identifying the signs of human trafficking will help to prevent people from becoming prey to traffickers’ tactics and ensure that current victims can get the help they need to leave.
+
 # Human Trafficking
 Merriam-Webster.com describes human trafficking as, organized criminal activity in which human beings are treated as possessions to be controlled and exploited (as by being forced into prostitution or involuntary labor).
 ## Questions?
@@ -29,7 +30,7 @@ Any signs of labor trafficking, may notice someone is hiding bruises, scars, mar
 •	Acting out sexually, exhibiting aggressive anger or doing opposite appearing withdrawn reclusive. Person’s attitude is completely different from normal behavior.
 •	Using drugs or involved in a gang.
 
-### Why don’t victims of sex trafficking report their abuse?
+### Why do victims of sex trafficking not report their abuse?
 •	Fear of not being believed.
 •	Feels shameful for what has happened to them
 •	Fear of retaliation from their trafficker
@@ -40,6 +41,8 @@ Any signs of labor trafficking, may notice someone is hiding bruises, scars, mar
 •	May be confused or disoriented or developed a substance dependency
 •	Most have developed a trauma bond with their trafficker giving them a feeling of a strong emotional bond. Has a strong neurological impact on victims and is more powerful than a physical constraint. 
 
+## Does Gender play a role in human trafficking?
+Though it seems that mostly women and young girls are affected by sexual trafficking, it is believed that males are just as victimized as females. Unfortunately, due to embarrassment or shame, most will not come forward more so than females. Male victims are often recruited directly by buyers rather than a third-party trafficker. This gives most victims a sense of agency, which makes them feel in control of the situation therefore they do not feel as though they are being victimized. Most are drawn in by the buyer who is offering to meet their needs and provides them with a sense of belonging. Labor trafficking is the area males are not as ashamed to come forward.
 
 ### What ways are people targeted by traffickers?
 Labor:
@@ -53,7 +56,6 @@ Sex:
 •	Homelessness
 •	Mental illness
 •	Poverty
-
 Children:  
 •	Run away 
 •	Homelessness
@@ -64,7 +66,7 @@ Children:
 •	Isolation
 •	Emotional distress
 •	Substance Use 
-•	
+
 ### What are Key Signs to look for if you believe a child is being trafficked?
 •	Victims work late at night while still in school
 •	They are taken to other cities to work on weekends
@@ -115,9 +117,6 @@ Exploitation:
 •	Makes victim feel indebted to them
 •	Makes victim feel obligated to repay or contribute in some way
 •	Isolates victim from family and friends so that they believe trafficker is only one who cares for them making it harder for them to reach out for help, as well as to change victim as much as possible to create a new identity 
-
-
-
 
 
 ## Team
