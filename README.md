@@ -1,17 +1,17 @@
 # Analytics Final Project
-Human Trafficking
-Overview
+# Human Trafficking
+## Overview
 Human trafficking is a worldwide problem that affects millions of people. Traffickers use other humans to generate a profit for themselves at the victim’s expense. The most vulnerable to becoming victims of human trafficking are those who’s basic needs are unmet. The lack of necessities is one of the ways traffickers will prey on victims. Most trafficked victims believe they are indebted to their traffickers in some way or are controlled by the trauma bond they develop with their trafficker. Identifying the signs of human trafficking will help to prevent people from becoming prey to traffickers’ tactics and ensure that current victims can get the help they need to leave.
 
-Purpose
+## Purpose
 The purpose of our final project was to search for trends in human trafficking in order to predict possible outcomes based on the victim’s gender, age, relationships, and citizenship and how these relate to the activity the victims are forced into.
 
 Our team also took a look at the status of the victim’s country of origin and how that might affect the number of victims.
 
-Choosing
+## Choosing
 Our initial thoughts on the matter were how awful this situations is across the country as well as around the world. As a way to evoke consciousness maybe, or as a personal exercise of empathy, we decided to work with this dataset, trying to discover what story could it be telling us.
 
-Sources of Data
+## Sources of Data
 Polaris: The Counter-Trafficking Data Collaborative (CTDC) is a joint project of Polaris and the first global data hub on human trafficking
 
 The World Bank: Global Poverty Working Group Data is compiled from official government sources or are computed by World Bank staffing using national poverty lines
@@ -22,7 +22,7 @@ DataHub: Geodata data package providing geojson polygons for all the world’s c
 
 Nations Online Project: List of ISO Alpha-2, Alpha-3, and Numeric Country Codes to join data sets together
 
-Questions?
+## Questions?
 Does the victim's age, gender, relationship to their recruiter and citizenship predict the type of exploitation?
 Polaris-reported human trafficking appears to fall in to one of five major types of exploitation: sexual, forced labor, forced marriage, slavery and other/multiple exploits.
 
